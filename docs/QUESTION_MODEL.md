@@ -32,7 +32,7 @@ Examples:
 
  Only these three courses will be used in Version 1. The architecture supports adding unlimited future courses without changing the app structure.
 
- ## Subject
+## Subject
 
 Every question belongs to one subject within a course.
 
@@ -400,7 +400,7 @@ Rules:
 
 - The application remembers the expanded state until the user moves to the next question.
 
-  ## Explanation Image (Optional)
+## Explanation Image (Optional)
 
 An explanation may include one or more images to improve understanding.
 
@@ -440,7 +440,7 @@ Rules:
 
 - Explanation images must remain linked to their respective question.
 
-  ## Explanation Video (Optional)
+## Explanation Video (Optional)
 
 An explanation may include a video for better understanding.
 
@@ -470,7 +470,7 @@ Rules:
 
 - Premium-only videos are supported.
 
-  ## Clinical Tip (Premium)
+## Clinical Tip (Premium)
 
 Clinical Tip provides practical knowledge beyond examination preparation.
 
@@ -494,7 +494,7 @@ Rules:
 
 - Clinical Tips must be concise, practical and evidence-based.
 
-  ## Did You Know (Premium)
+## Did You Know (Premium)
 
 Did You Know provides interesting facts related to the topic.
 
@@ -516,7 +516,7 @@ Rules:
 
 - Information must be authentic and reference-based.
 
-  ## Reference
+## Reference
 
 Every question should be supported by at least one authentic reference whenever possible.
 
@@ -556,7 +556,7 @@ Rules:
 
 - References are optional but strongly recommended.
 
-  ## Previous Year Question (PYQ)
+## Previous Year Question (PYQ)
 
 A question may be marked as a Previous Year Question.
 
@@ -582,7 +582,7 @@ Rules:
 
 - Tapping the badge shows the complete examination history.
 
-  ## Bookmark
+## Bookmark
 
 Users can bookmark questions for future revision.
 
@@ -598,7 +598,7 @@ Rules:
 
 - Deleting a bookmark does not affect the original question.
 
-  ## Report Question
+## Report Question
 
 Users can report a question if they find any issue.
 
@@ -628,7 +628,7 @@ Rules:
 
 - Reported questions remain available until reviewed by an administrator.
 
-  ## Question Status
+## Question Status
 
 Every question must have a status.
 
@@ -648,19 +648,19 @@ Rules:
 
 - Archived questions are hidden from users but remain stored in the database.
 
-  ## Version
+## Schema Version
 
-Every question maintains a version number.
+Every question maintains a schema version.
 
 Rules:
 
-- Version starts from 1.
+- Schema Version starts from 1.
 
-- The version increases whenever the question content is updated.
+- The Schema Version increases only when the database structure of the question changes.
 
-- Version history helps maintain quality and track changes.
+- Content updates do not require a Schema Version change.
 
-  ## Last Updated
+## Last Updated
 
 Every question stores its last updated date and time.
 
@@ -670,7 +670,7 @@ Rules:
 
 - Used for synchronization, quality control and future auditing.
 
-  ## Summary
+## Summary
 
 This document defines the complete structure of a question used in the Paramed Prep application.
 
