@@ -641,3 +641,41 @@ Rules:
 - Attempt history supports AI-based recommendations and revision planning.
 
 - Mock attempts remain linked to the original Mock Test even if the mock is updated later.
+
+## App Config Collection
+
+The app_config collection stores global application settings.
+
+Each configuration is stored as one document.
+
+Examples:
+
+- General Settings
+
+- App Version
+
+- Maintenance Mode
+
+- Home Banner
+
+- Featured Mock Tests
+
+- Daily Challenge
+
+- Update Message
+
+- Minimum Supported Version
+
+- Premium Plans
+
+Rules:
+
+- Configuration changes should not require an app update.
+
+- The application automatically fetches the latest configuration.
+
+- Configuration data should remain lightweight.
+
+- Only administrators can modify configuration values.
+
+- Changes take effect immediately after synchronization.
