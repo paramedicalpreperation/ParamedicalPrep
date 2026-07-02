@@ -32,53 +32,21 @@ Version 1 uses the following collections:
 
 - courses
 
-- questions
+- subjects
 
-- users
-
-- mock_tests
-
-- app_config
-
-Future collections may include:
-
-- leaderboard
-
-- notifications
-
-- subscriptions
-
-- analytics
-
-- reports
-
-- payments
-
-Rules:
-
-- Every collection has a single responsibility.
-
-- Collections should remain independent whenever possible.
-
-- Avoid deeply nested collections.
-
-- Keep document size small.
-
-- Design for scalability from the beginning.
-
-## Collections
-
-The Firestore database is divided into top-level collections.
-
-Version 1 uses the following collections:
-
-- courses
+- topics
 
 - questions
 
 - users
 
+- bookmarks
+
+- progress
+
 - mock_tests
+
+- mock_attempts
 
 - app_config
 
@@ -115,14 +83,29 @@ Version 1 Firestore Structure:
 courses/
     {courseId}
 
+subjects/
+    {subjectId}
+
+topics/
+    {topicId}
+
 questions/
     {questionId}
 
 users/
     {userId}
 
+bookmarks/
+    {bookmarkId}
+
+progress/
+    {progressId}
+
 mock_tests/
     {mockTestId}
+
+mock_attempts/
+    {attemptId}
 
 app_config/
     settings
@@ -394,6 +377,10 @@ Each question contains:
 
 - Updated At
 
+- Created By
+
+- Updated By
+
 Rules:
 
 - Question ID never changes.
@@ -430,7 +417,7 @@ Each user contains:
 
 - Preferred Language
 
-- Selected Course
+- Current Course
 
 - Subscription Type
 
@@ -451,6 +438,10 @@ Each user contains:
 - Created At
 
 - Updated At
+
+- Last Log In At
+
+- Last Sync At
 
 Rules:
 
@@ -505,6 +496,12 @@ Each progress document contains:
 - User ID
 
 - Question ID
+
+- Course ID
+
+- Subject ID
+
+- Topic ID
 
 - Selected Option ID
 
