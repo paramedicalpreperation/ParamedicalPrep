@@ -409,3 +409,57 @@ Rules:
 - Every question is designed for offline synchronization.
 
 - The document structure must remain lightweight for fast performance.
+
+## Users Collection
+
+The users collection stores user account information and learning progress.
+
+Each user is stored as one document.
+
+Each user contains:
+
+- User ID
+
+- Full Name
+
+- Email Address
+
+- Mobile Number (Optional)
+
+- Profile Photo (Optional)
+
+- Preferred Language
+
+- Selected Course
+
+- Subscription Type
+
+- Subscription Expiry (Optional)
+
+- Total XP
+
+- Current Streak
+
+- Longest Streak
+
+- Total Questions Solved
+
+- Total Mock Tests Attempted
+
+- Account Status
+
+- Created At
+
+- Updated At
+
+Rules:
+
+- User ID never changes.
+
+- Personal information is stored securely.
+
+- Learning statistics are updated automatically.
+
+- User data is synchronized across devices after login.
+
+- Inactive accounts remain in the database unless permanently removed by the user.
