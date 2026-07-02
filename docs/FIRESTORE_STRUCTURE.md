@@ -335,3 +335,77 @@ Rules:
 - Disabled topics remain in the database but are hidden from users.
 
 - New topics can be added without modifying the application structure.
+
+## Questions Collection
+
+The questions collection stores all questions used in the Paramed Prep application.
+
+Each question is stored as one document.
+
+Every question references its related Course, Subject and Topic using unique IDs.
+
+Each question contains:
+
+- Question ID
+
+- Course ID
+
+- Subject ID
+
+- Topic ID
+
+- Subtopic (Optional)
+
+- Question Type
+
+- Difficulty Level
+
+- Language
+
+- Question Text
+
+- Question Image (Optional)
+
+- Options
+
+- Correct Option ID
+
+- Explanation
+
+- Explanation Image (Optional)
+
+- Explanation Video (Optional)
+
+- Clinical Tip (Premium)
+
+- Did You Know (Premium)
+
+- References
+
+- Previous Year Question Details (Optional)
+
+- Tags
+
+- Status
+
+- Schema Version
+
+- Created At
+
+- Updated At
+
+Rules:
+
+- Question ID never changes.
+
+- Questions are never permanently deleted.
+
+- Archived questions remain available for future use.
+
+- Every question references Course ID, Subject ID and Topic ID.
+
+- Every question supports future multilingual content.
+
+- Every question is designed for offline synchronization.
+
+- The document structure must remain lightweight for fast performance.
