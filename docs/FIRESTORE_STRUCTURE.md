@@ -275,3 +275,63 @@ Rules:
 - Disabled subjects remain in the database but are hidden from users.
 
 - New subjects can be added without modifying the application structure.
+
+## Topics Collection
+
+The topics collection stores all topics under different subjects.
+
+Each topic belongs to one subject.
+
+Each topic is stored as one document.
+
+Examples:
+
+- Upper Limb
+
+- Lower Limb
+
+- Thorax
+
+- Abdomen
+
+- Skull
+
+- Contrast Media
+
+- Radiation Protection
+
+- Bacteria
+
+- Blood Banking
+
+Each topic contains:
+
+- Topic ID
+
+- Topic Name
+
+- Topic Code
+
+- Subject ID
+
+- Course ID
+
+- Display Order
+
+- Total Questions
+
+- Active Status
+
+Rules:
+
+- Topic ID never changes.
+
+- Every topic references its parent Subject ID and Course ID.
+
+- Display Order controls the sequence within a subject.
+
+- Active topics are visible to users.
+
+- Disabled topics remain in the database but are hidden from users.
+
+- New topics can be added without modifying the application structure.
