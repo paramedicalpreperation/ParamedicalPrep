@@ -531,3 +531,57 @@ Rules:
 - Progress history helps generate analytics, revision plans and AI recommendations.
 
 - Progress records are never overwritten. New attempts create updated progress entries while preserving learning history where required.
+
+## Mock Tests Collection
+
+The mock_tests collection stores all mock tests available in the application.
+
+Each mock test is stored as one document.
+
+Each mock test contains:
+
+- Mock Test ID
+
+- Mock Test Name
+
+- Course ID
+
+- Subject ID (Optional)
+
+- Topic ID (Optional)
+
+- Total Questions
+
+- Total Marks
+
+- Duration
+
+- Positive Marks
+
+- Negative Marks
+
+- Passing Marks (Optional)
+
+- Difficulty Level
+
+- Language
+
+- Question List
+
+- Active Status
+
+- Created At
+
+- Updated At
+
+Rules:
+
+- Every mock test has a unique Mock Test ID.
+
+- A mock test may include questions from one or multiple subjects.
+
+- Questions are referenced using Question IDs.
+
+- Mock tests can follow different official examination patterns.
+
+- Mock tests remain editable without affecting previous user attempts.
