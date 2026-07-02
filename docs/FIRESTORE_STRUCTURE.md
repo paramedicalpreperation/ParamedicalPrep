@@ -745,3 +745,29 @@ Rules:
 - Avoid unnecessary composite indexes.
 
 - Optimize queries to reduce Firebase read costs.
+
+## Firestore Cost Optimization
+
+The Firestore database should be designed to minimize operational costs.
+
+Rules:
+
+- Read only the required data.
+
+- Avoid duplicate data storage.
+
+- Keep documents lightweight.
+
+- Load images only when required.
+
+- Cache frequently accessed data locally.
+
+- Use pagination for large datasets.
+
+- Minimize unnecessary write operations.
+
+- Archive unused data instead of deleting it.
+
+- Monitor Firebase usage regularly.
+
+- Optimize database queries before production release.
