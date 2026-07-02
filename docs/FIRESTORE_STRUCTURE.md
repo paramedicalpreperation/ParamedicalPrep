@@ -717,3 +717,31 @@ Rules:
 - Duplicate records are prevented using unique document IDs.
 
 - Synchronization must never interrupt the user experience.
+
+## Firestore Indexing Strategy
+
+Indexes are created for frequently queried fields.
+
+Examples:
+
+- Course ID
+
+- Subject ID
+
+- Topic ID
+
+- Difficulty Level
+
+- Language
+
+- Status
+
+- Previous Year Question
+
+Rules:
+
+- Only required indexes should be created.
+
+- Avoid unnecessary composite indexes.
+
+- Optimize queries to reduce Firebase read costs.
