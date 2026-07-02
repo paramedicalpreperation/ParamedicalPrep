@@ -107,3 +107,31 @@ Rules:
 - Keep document size small.
 
 - Design for scalability from the beginning.
+
+## Database Tree
+
+Version 1 Firestore Structure:
+
+courses/
+    {courseId}
+
+questions/
+    {questionId}
+
+users/
+    {userId}
+
+mock_tests/
+    {mockTestId}
+
+app_config/
+    settings
+
+Future Collections:
+
+leaderboard/
+notifications/
+subscriptions/
+analytics/
+reports/
+payments/
