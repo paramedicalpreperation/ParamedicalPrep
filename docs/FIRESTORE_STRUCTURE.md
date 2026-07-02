@@ -197,3 +197,25 @@ Rules:
 - Disabled courses remain in the database but are hidden from users.
 
 - New courses can be added without modifying the application structure.
+
+## Database Design Principle
+
+All major entities are stored as top-level collections.
+
+Examples:
+
+- courses
+
+- subjects
+
+- topics
+
+- questions
+
+- users
+
+- mock_tests
+
+Relationships are maintained using unique IDs instead of deeply nested collections.
+
+This architecture improves scalability, performance, maintainability and querying efficiency.
