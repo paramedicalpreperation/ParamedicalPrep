@@ -219,3 +219,59 @@ Examples:
 Relationships are maintained using unique IDs instead of deeply nested collections.
 
 This architecture improves scalability, performance, maintainability and querying efficiency.
+
+## Subjects Collection
+
+The subjects collection stores all subjects available under different courses.
+
+Each subject belongs to one course.
+
+Each subject is stored as one document.
+
+Examples:
+
+- Anatomy
+
+- Physiology
+
+- Pathology
+
+- Microbiology
+
+- Pharmacology
+
+- Radiographic Physics
+
+Each subject contains:
+
+- Subject ID
+
+- Subject Name
+
+- Subject Code
+
+- Course ID
+
+- Icon
+
+- Display Order
+
+- Total Topics
+
+- Total Questions
+
+- Active Status
+
+Rules:
+
+- Subject ID never changes.
+
+- Every subject references its parent Course ID.
+
+- Display Order controls the sequence within a course.
+
+- Active subjects are visible to users.
+
+- Disabled subjects remain in the database but are hidden from users.
+
+- New subjects can be added without modifying the application structure.
