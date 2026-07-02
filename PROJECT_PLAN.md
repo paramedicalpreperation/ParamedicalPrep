@@ -4,7 +4,7 @@
 Paramed Prep
 
 ## Goal
-Create the best Android app for Paramedical students.
+Build India's most trusted learning platform for Paramedical students.
 
 ## Tech Stack
 - Kotlin
