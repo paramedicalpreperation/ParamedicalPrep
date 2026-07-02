@@ -18,7 +18,7 @@ Build India's most trusted, fastest and most user-friendly learning platform for
 - Easy to Maintain
 - Scalable Architecture
 
- ## Engineering Rules
+## Engineering Rules
 
 - Modular Architecture
 - Reusable Components
@@ -30,7 +30,7 @@ Build India's most trusted, fastest and most user-friendly learning platform for
 - Crashlytics Enabled
 - Test Every Feature Before Next Feature
 
- ## UI & UX Rules
+## UI & UX Rules
 
 - Minimal and Clean Design
 - CBT Inspired Mock Test Interface
@@ -42,7 +42,7 @@ Build India's most trusted, fastest and most user-friendly learning platform for
 - No UI Clutter
 - Mobile First, Tablet Perfect
 
- ## Performance Rules
+## Performance Rules
 
 - App Must Feel Instant
 - No ANR (Application Not Responding)
@@ -55,7 +55,7 @@ Build India's most trusted, fastest and most user-friendly learning platform for
 - Crash-Free User Experience
 - Low Battery Consumption
 
- ## Git & Documentation Rules
+## Git & Documentation Rules
 
 - Every New Feature Must Have Documentation
 - One Feature at a Time
@@ -66,7 +66,7 @@ Build India's most trusted, fastest and most user-friendly learning platform for
 - Update CHANGELOG for Important Changes
 - Documentation Before Implementation
 
- ## Coding Standards
+## Coding Standards
 
 - Follow MVVM Architecture
 - Follow Material 3 Design Guidelines
@@ -79,6 +79,6 @@ Build India's most trusted, fastest and most user-friendly learning platform for
 - Every Screen Must Be Responsive
 - Every New Feature Must Be Tested Before Merge
 
- ## Long-Term Goal
+## Long-Term Goal
 
 Build a stable, scalable and trusted learning platform for Paramedical students that can easily grow from 12 courses to 40+ courses, from thousands to lakhs of questions, while remaining fast, clean and easy to maintain.
