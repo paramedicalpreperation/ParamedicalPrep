@@ -585,3 +585,59 @@ Rules:
 - Mock tests can follow different official examination patterns.
 
 - Mock tests remain editable without affecting previous user attempts.
+
+## Mock Attempts Collection
+
+The mock_attempts collection stores every mock test attempt made by users.
+
+Each attempt is stored as one document.
+
+Each mock attempt contains:
+
+- Attempt ID
+
+- User ID
+
+- Mock Test ID
+
+- Attempt Number
+
+- Started At
+
+- Submitted At
+
+- Time Taken
+
+- Total Questions
+
+- Correct Answers
+
+- Wrong Answers
+
+- Unanswered Questions
+
+- Final Score
+
+- Percentage
+
+- Accuracy
+
+- Rank (Future)
+
+- Result Status
+
+- Attempt Status
+
+Rules:
+
+- Every attempt has a unique Attempt ID.
+
+- Previous attempts are never overwritten.
+
+- Every attempt remains available for future review.
+
+- Analytics are generated from attempt history.
+
+- Attempt history supports AI-based recommendations and revision planning.
+
+- Mock attempts remain linked to the original Mock Test even if the mock is updated later.
