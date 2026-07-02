@@ -135,3 +135,65 @@ subscriptions/
 analytics/
 reports/
 payments/
+
+## Courses Collection
+
+The courses collection stores all available courses.
+
+Each course is stored as one document.
+
+Document ID Examples:
+
+- MLT
+
+- RD
+
+- CCT
+
+Future Examples:
+
+- OT
+
+- ECG
+
+- DIALYSIS
+
+- PHYSIOTHERAPY
+
+Each course contains:
+
+- Course ID
+
+- Course Name
+
+- Short Name
+
+- Description
+
+- Icon
+
+- Banner Image
+
+- Color Theme
+
+- Display Order
+
+- Total Subjects
+
+- Total Topics
+
+- Total Questions
+
+- Active Status
+
+Rules:
+
+- Course ID never changes.
+
+- Display Order controls the home screen order.
+
+- Active courses are visible to users.
+
+- Disabled courses remain in the database but are hidden from users.
+
+- New courses can be added without modifying the application structure.
