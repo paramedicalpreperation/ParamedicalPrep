@@ -397,18 +397,6 @@ Rules:
 
 - The document structure must remain lightweight for fast performance.
 
-Implementation Note:
-  
-Options follow the Option Model defined in QUESTION_MODEL.md.
-
-Each option supports:
-
-- Option ID
-
-- Option Text
-
-- Option Image (Optional)
-
 ## Users Collection
 
 The users collection stores user account information and learning progress.
