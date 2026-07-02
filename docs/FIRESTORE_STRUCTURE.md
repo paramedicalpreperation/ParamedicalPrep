@@ -491,3 +491,43 @@ Rules:
 - Removing a bookmark does not affect the original question.
 
 - Bookmarks are synchronized across devices after login.
+
+## Progress Collection
+
+The progress collection stores the learning progress of every user.
+
+Each progress record is stored as one document.
+
+Each progress document contains:
+
+- Progress ID
+
+- User ID
+
+- Question ID
+
+- Selected Option ID
+
+- Correct Option ID
+
+- Attempt Number
+
+- Is Correct
+
+- Time Taken
+
+- Answered At
+
+- Sync Status
+
+Rules:
+
+- One document is created for each answered question.
+
+- Progress is synchronized automatically after internet is available.
+
+- Progress supports offline learning.
+
+- Progress history helps generate analytics, revision plans and AI recommendations.
+
+- Progress records are never overwritten. New attempts create updated progress entries while preserving learning history where required.
