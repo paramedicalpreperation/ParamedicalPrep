@@ -679,3 +679,23 @@ Rules:
 - Only administrators can modify configuration values.
 
 - Changes take effect immediately after synchronization.
+
+## Security Rules
+
+The Firestore database must follow strict security rules.
+
+Rules:
+
+- Users can access only their own personal data.
+
+- Users cannot modify question content.
+
+- Only administrators can create, update or archive questions.
+
+- Only administrators can manage courses, subjects, topics and mock tests.
+
+- Every write operation must be authenticated.
+
+- Sensitive data must never be publicly accessible.
+
+- Firestore Security Rules must be enabled before production release.
