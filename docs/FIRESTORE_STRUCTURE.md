@@ -167,7 +167,7 @@ Each course contains:
 
 - Total Questions
 
-- Active Status
+- Status
 
 Rules:
 
@@ -243,7 +243,7 @@ Each subject contains:
 
 - Total Questions
 
-- Active Status
+- Status
 
 Rules:
 
@@ -303,7 +303,7 @@ Each topic contains:
 
 - Total Questions
 
-- Active Status
+- Status
 
 Rules:
 
@@ -397,6 +397,18 @@ Rules:
 
 - The document structure must remain lightweight for fast performance.
 
+Implementation Note:
+  
+Options follow the Option Model defined in QUESTION_MODEL.md.
+
+Each option supports:
+
+- Option ID
+
+- Option Text
+
+- Option Image (Optional)
+
 ## Users Collection
 
 The users collection stores user account information and learning progress.
@@ -417,7 +429,7 @@ Each user contains:
 
 - Preferred Language
 
-- Current Course
+- Current Course ID
 
 - Subscription Type
 
@@ -439,7 +451,7 @@ Each user contains:
 
 - Updated At
 
-- Last Log In At
+- Last Login At
 
 - Last Sync At
 
@@ -529,6 +541,8 @@ Rules:
 
 - Progress records are never overwritten. New attempts create updated progress entries while preserving learning history where required.
 
+- Correct Option ID is stored for offline validation and analytics, reducing unnecessary Firestore reads.
+
 ## Mock Tests Collection
 
 The mock_tests collection stores all mock tests available in the application.
@@ -563,9 +577,9 @@ Each mock test contains:
 
 - Language
 
-- Question List
+- Question ID List
 
-- Active Status
+- Status
 
 - Created At
 
