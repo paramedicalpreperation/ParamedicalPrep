@@ -771,3 +771,21 @@ Rules:
 - Monitor Firebase usage regularly.
 
 - Optimize database queries before production release.
+
+## Backup and Versioning Strategy
+
+The Firestore database must support reliable backup and version management.
+
+Rules:
+
+- Perform scheduled database backups.
+
+- Maintain schema version information.
+
+- Never delete production data without backup.
+
+- Test backup restoration periodically.
+
+- Record major database changes in project documentation.
+
+- Ensure future database migrations remain backward compatible.
