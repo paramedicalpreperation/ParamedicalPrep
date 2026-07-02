@@ -463,3 +463,31 @@ Rules:
 - User data is synchronized across devices after login.
 
 - Inactive accounts remain in the database unless permanently removed by the user.
+
+## Bookmarks Collection
+
+The bookmarks collection stores questions bookmarked by users for future revision.
+
+Each bookmark is stored as one document.
+
+Each bookmark contains:
+
+- Bookmark ID
+
+- User ID
+
+- Question ID
+
+- Created At
+
+Rules:
+
+- One user can bookmark multiple questions.
+
+- One question can be bookmarked by multiple users.
+
+- Duplicate bookmarks are not allowed.
+
+- Removing a bookmark does not affect the original question.
+
+- Bookmarks are synchronized across devices after login.
