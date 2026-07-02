@@ -65,3 +65,45 @@ Rules:
 - Keep document size small.
 
 - Design for scalability from the beginning.
+
+## Collections
+
+The Firestore database is divided into top-level collections.
+
+Version 1 uses the following collections:
+
+- courses
+
+- questions
+
+- users
+
+- mock_tests
+
+- app_config
+
+Future collections may include:
+
+- leaderboard
+
+- notifications
+
+- subscriptions
+
+- analytics
+
+- reports
+
+- payments
+
+Rules:
+
+- Every collection has a single responsibility.
+
+- Collections should remain independent whenever possible.
+
+- Avoid deeply nested collections.
+
+- Keep document size small.
+
+- Design for scalability from the beginning.
