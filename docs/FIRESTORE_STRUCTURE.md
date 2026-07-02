@@ -699,3 +699,21 @@ Rules:
 - Sensitive data must never be publicly accessible.
 
 - Firestore Security Rules must be enabled before production release.
+
+## Synchronization Strategy
+
+The application follows an Offline-First synchronization model.
+
+Rules:
+
+- User actions are saved locally first.
+
+- Synchronization starts automatically when internet is available.
+
+- Synchronization runs silently in the background.
+
+- Failed synchronization attempts are automatically retried.
+
+- Duplicate records are prevented using unique document IDs.
+
+- Synchronization must never interrupt the user experience.
