@@ -1,7 +1,7 @@
 # MCQ DATABASE
 Course: OT Technology
 Exam Type: PYQ
-Exam Name: OT Technician [SHIFT - 1]
+Exam Name: OT Technician SHIFT - 1
 Recruiting Body: KSS Cancer Institute
 Department: OT Technology
 Year: 2024
