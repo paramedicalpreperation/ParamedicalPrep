@@ -153,3 +153,103 @@ Correct Answer: Option A
 Difficulty: Easy
 Explanation: A defibrillator is the clinical device specifically used to deliver a high-energy electrical shock to the heart, which terminates ventricular fibrillation and allows the heart to resume a normal rhythm.
 Source: Original PYQ
+## Q41
+Question: ICD used to prevent sudden cardiac deaths means
+Option A: Interconnected defibrillator
+Option B: Intra cardiac device
+Option C: Implantable cardioverter defibrillator
+Option D: Internal cardiac drug
+Correct Answer: Option C
+Difficulty: Easy
+Explanation: An Implantable Cardioverter Defibrillator (ICD) is a battery-powered device placed under the skin that monitors heart rhythm and delivers shocks to correct dangerous, life-threatening arrhythmias, thereby preventing sudden cardiac death.
+Source: Original PYQ
+## Q42
+Question: The concept of ambulatory ECG monitoring was introduced by
+Option A: Einthoven
+Option B: Norman Holter
+Option C: Inge Edler
+Option D: Christiaan Bernard
+Correct Answer: Option B
+Difficulty: Medium
+Explanation: Dr. Norman Holter developed the first portable "Holter monitor" in the 1940s, which revolutionized cardiac diagnostics by allowing for the continuous recording of a patient's ECG over 24 to 48 hours during their daily activities.
+Source: Original PYQ
+## Q43
+Question: Identify the true statement regarding premature ventricular contraction
+Option A: They originate from an abnormal location
+Option B: Has abnormal QRS morphology
+Option C: Has a compensatory pause
+Option D: All of the above
+Correct Answer: Option D
+Difficulty: Medium
+Explanation: Premature ventricular contractions (PVCs) are extra heartbeats originating in the ventricles. They are characterized by a wide, distorted QRS complex (abnormal morphology) and are typically followed by a compensatory pause before the next sinus beat.
+Source: Original PYQ
+## Q44
+Question: Which among the following is the investigation of choice to diagnose coronary artery disease in a patient with exertional angina?
+Option A: Holter monitoring
+Option B: Echocardiography
+Option C: Stress electrocardiography
+Option D: Troponin assay
+Correct Answer: Option C
+Difficulty: Medium
+Explanation: Stress electrocardiography (or Treadmill Test) is the primary investigation used to diagnose coronary artery disease in patients with exertional angina, as it evaluates how the heart handles the increased workload and oxygen demand during physical activity.
+Source: Original PYQ
+## Q45
+Question: Bruce protocol is used in
+Option A: Treadmill test
+Option B: Cardiac MRI
+Option C: Stress echocardiography
+Option D: Pacemaker implantation
+Correct Answer: Option A
+Difficulty: Easy
+Explanation: The Bruce protocol is the most widely recognized standardized treadmill exercise protocol, which involves progressive increases in speed and incline every three minutes to evaluate cardiovascular response to exertion.
+Source: Original PYQ
+## Q46
+Question: The following parameters are monitored during exercise ECG EXCEPT
+Option A: Heart rate
+Option B: ST depressions in ECG
+Option C: ST elevations in ECG
+Option D: Respiratory rate
+Correct Answer: Option D
+Difficulty: Medium
+Explanation: During a treadmill stress test, the primary focus is cardiac monitoring, including continuous ECG observation (checking for ischemic changes like ST-segment shifts) and heart rate. While respiratory parameters can be measured in advanced cardiopulmonary exercise testing, they are not standard in a routine exercise ECG.
+Source: Original PYQ
+## Q47
+Question: A treadmill test can be done to
+Option A: Diagnose coronary artery disease
+Option B: Assess prognosis after myocardial infarction
+Option C: Both 1 and 2
+Option D: Only 1
+Correct Answer: Option C
+Difficulty: Easy
+Explanation: A treadmill stress test is a versatile diagnostic tool; it is used both to detect the presence of coronary artery disease in symptomatic patients and to risk-stratify or assess functional prognosis in patients following a myocardial infarction.
+Source: Original PYQ
+## Q48
+Question: ________ is used to display heart rate and the ECG tracing in an ICU
+Option A: Holter monitor
+Option B: Cardiac monitor
+Option C: Pulse oximeter
+Option D: Sphygmomanometer
+Correct Answer: Option B
+Difficulty: Easy
+Explanation: A cardiac monitor is standard equipment in an Intensive Care Unit (ICU), providing real-time, continuous display of the ECG waveform, heart rate, and often other vital signs for constant patient surveillance.
+Source: Original PYQ
+## Q49
+Question: In cardioversion the electric shock is given
+Option A: At the beginning of P wave
+Option B: At the peak or just after R wave
+Option C: At the peak of T wave
+Option D: After T wave
+Correct Answer: Option B
+Difficulty: Medium
+Explanation: In synchronized cardioversion, the shock must be delivered during the R wave of the QRS complex to avoid the vulnerable period of the T wave. Shocking during the T wave could accidentally induce ventricular fibrillation.
+Source: Original PYQ
+## Q50
+Question: The most accurate method to identify obstruction in coronary arteries is
+Option A: Echocardiography
+Option B: Ambulatory ECG recording
+Option C: Cardiac catheterization
+Option D: Cardiac MRI
+Correct Answer: Option C
+Difficulty: Medium
+Explanation: Cardiac catheterization (specifically coronary angiography) is the definitive and most accurate diagnostic procedure for visualizing the coronary arteries and identifying the precise location and severity of any arterial obstructions.
+Source: Original PYQ
