@@ -596,3 +596,668 @@ Difficulty:
 Easy
 Explanation:
 Sensory adaptation in the visual system is the process of adjusting photoreceptor sensitivity to changing ambient light levels (light and dark adaptation).
+## Q36
+Question:
+Which of the following is the correct order of steps involved in the routine processing of tissue specimens for histopathological examination?
+Option A:
+Fixation → Dehydration → Embedding → Staining → Sectioning
+Option B:
+Dehydration → Fixation → Staining → Embedding → Sectioning
+Option C:
+Sectioning → Fixation → Dehydration → Staining → Embedding
+Option D:
+Fixation → Sectioning → Staining → Embedding → Dehydration
+Correct Answer:
+Option A
+Difficulty:
+Medium
+Explanation:
+Routine tissue processing follows a standard sequence: Fixation (to preserve tissue), Dehydration (removing water), Embedding (supporting the tissue), and finally staining and sectioning for microscopic view.
+Source:
+RRB Optometrist Grade II 2025
+## Q37
+Question:
+What is the primary use of an ophthalmoscope?
+Option A:
+To assess corneal thickness
+Option B:
+To test visual acuity
+Option C:
+To measure intraocular pressure
+Option D:
+To examine the retina
+Correct Answer:
+Option D
+Difficulty:
+Easy
+Explanation:
+An ophthalmoscope is a diagnostic instrument used to visualize the interior of the eye, specifically the retina, optic disc, and retinal vessels.
+Source:
+RRB Optometrist Grade II 2025
+## Q38
+Question:
+Which of the following is a correct statement about the index of refraction in spectacle lens materials?
+Option A:
+The refractive index has no effect on lens thickness.
+Option B:
+High-index lenses are always heavier than standard plastic lenses.
+Option C:
+A lower refractive index means the lens will be thinner for the same prescription.
+Option D:
+A higher refractive index allows the lens to bend light more efficiently, making it thinner.
+Correct Answer:
+Option D
+Difficulty:
+Medium
+Explanation:
+Materials with a high refractive index can bend light more effectively, allowing for thinner, lighter lenses, which is beneficial for strong prescriptions.
+Source:
+RRB Optometrist Grade II 2025
+## Q39
+Question:
+Which of the following amino acids is classified as essential and must be obtained through the diet because the human body cannot synthesize it?
+Option A:
+Alanine
+Option B:
+Leucine
+Option C:
+Glycine
+Option D:
+Serine
+Correct Answer:
+Option B
+Difficulty:
+Easy
+Explanation:
+Leucine is an essential amino acid, meaning the body cannot produce it, and it must be consumed through dietary protein sources.
+Source:
+RRB Optometrist Grade II 2025
+## Q40
+Question:
+What is uniocular movement?
+Option A:
+Movement of the eyelids
+Option B:
+Movement of both eyes together
+Option C:
+Movement of the pupil
+Option D:
+Movement of one eye independently
+Correct Answer:
+Option D
+Difficulty:
+Easy
+Explanation:
+Uniocular movement (or duction) refers to the movement of a single eye, whereas conjugate movements involve both eyes moving in the same direction.
+Source:
+RRB Optometrist Grade II 2025
+## Q41
+Question:
+What is the primary purpose of data tabulation in biostatistical analysis?
+Option A:
+To create visual graphs
+Option B:
+To perform complex calculations
+Option C:
+To eliminate data outliers
+Option D:
+To organize raw data systematically
+Correct Answer:
+Option D
+Difficulty:
+Easy
+Explanation:
+Tabulation is the process of arranging raw statistical data into an orderly, systematic format (rows and columns) to facilitate analysis.
+Source:
+RRB Optometrist Grade II 2025
+## Q42
+Question:
+A converging lens is also known as:
+Option A:
+Plano-concave lens
+Option B:
+Plano-convex lens
+Option C:
+Convex lens
+Option D:
+Concave lens
+Correct Answer:
+Option C
+Difficulty:
+Easy
+Explanation:
+A convex lens is a converging lens because it refracts parallel light rays so that they converge at a focal point.
+Source:
+RRB Optometrist Grade II 2025
+## Q43
+Question:
+Which infection is caused by the varicella zoster virus?
+Option A:
+Conjunctivitis
+Option B:
+Endophthalmitis
+Option C:
+Keratitis
+Option D:
+Herpes zoster ophthalmicus
+Correct Answer:
+Option D
+Difficulty:
+Medium
+Explanation:
+Herpes zoster ophthalmicus occurs when the dormant varicella zoster virus reactivates in the ophthalmic branch of the trigeminal nerve.
+Source:
+RRB Optometrist Grade II 2025
+## Q44
+Question:
+What term describes excessive cell growth in a tissue?
+Option A:
+Hypertrophy
+Option B:
+Dysplasia
+Option C:
+Atrophy
+Option D:
+Hyperplasia
+Correct Answer:
+Option D
+Difficulty:
+Medium
+Explanation:
+Hyperplasia refers to an increase in the number of cells in an organ or tissue, often resulting in increased tissue mass.
+Source:
+RRB Optometrist Grade II 2025
+## Q45
+Question:
+Which of the following glass forming processes is most suitable for producing hollow objects like bottles?
+Option A:
+Pressing
+Option B:
+Rolling
+Option C:
+Blow and blow process
+Option D:
+Float process
+Correct Answer:
+Option C
+Difficulty:
+Hard
+Explanation:
+The "blow and blow" process is an industrial technique specifically used to manufacture hollow glass articles like bottles and containers.
+Source:
+RRB Optometrist Grade II 2025
+## Q46
+Question:
+A 4-month-old infant is presented with congenital ptosis, which is characterised by a drooping of the upper eyelid. Upon further examination, it is noted that there is a lack of the superior levator muscle function. Which of the following is the most likely underlying cause of this condition?
+Option A:
+Blepharophimosis syndrome
+Option B:
+Marcus Gunn jaw-winking syndrome
+Option C:
+Congenital aponeurotic ptosis
+Option D:
+Congenital Horner’s syndrome
+Correct Answer:
+Option C
+Difficulty:
+Hard
+Explanation:
+Simple congenital ptosis is most commonly caused by developmental dystrophy or poor formation of the levator palpebrae superioris muscle (congenital aponeurotic ptosis).
+Source:
+RRB Optometrist Grade II 2025
+## Q47
+Question:
+Which of the following is a common symptom of tuberculosis (TB)?
+Option A:
+Swollen joints
+Option B:
+Night sweats and chills
+Option C:
+Shortness of breath
+Option D:
+Persistent cough with sputum
+Correct Answer:
+Option D
+Difficulty:
+Easy
+Explanation:
+A chronic, persistent cough accompanied by sputum production is the most characteristic clinical symptom of active pulmonary tuberculosis.
+Source:
+RRB Optometrist Grade II 2025
+## Q48
+Question:
+Which concept represents the additional benefit gained by consuming one more unit of a healthcare service?
+Option A:
+Demand elasticity
+Option B:
+Marginal utility
+Option C:
+Opportunity cost
+Option D:
+Cost-effectiveness
+Correct Answer:
+Option B
+Difficulty:
+Medium
+Explanation:
+Marginal utility refers to the incremental change in utility derived from consuming one additional unit of a good or service.
+Source:
+RRB Optometrist Grade II 2025
+## Q49
+Question:
+What is the main feature of bifocal lenses?
+Option A:
+They are used for color correction
+Option B:
+They have two different focal lengths
+Option C:
+They are designed for single-vision use
+Option D:
+They are used only for reading
+Correct Answer:
+Option B
+Difficulty:
+Easy
+Explanation:
+Bifocal lenses are designed to correct both distance vision and near vision by incorporating two separate focal powers into one lens.
+Source:
+RRB Optometrist Grade II 2025
+## Q50
+Question:
+Which of the following is a common structural change that occurs in the eye of elderly individuals?
+Option A:
+Increased corneal thickness
+Option B:
+Increase in intraocular pressure (IOP)
+Option C:
+Decreased retinal pigmentation
+Option D:
+Hardening of the lens (presbyopia)
+Correct Answer:
+Option D
+Difficulty:
+Easy
+Explanation:
+As individuals age, the natural crystalline lens loses its flexibility and hardens, leading to presbyopia (inability to focus at near).
+Source:
+RRB Optometrist Grade II 2025
+## Q51
+Question:
+According to Indian and international low vision classification standards, which of the following best defines severe visual impairment?
+Option A:
+Visual acuity less than 6/18 but equal to or better than 6/60 in the better eye with best correction.
+Option B:
+Visual acuity less than 6/18 in either eye regardless of correction status.
+Option C:
+Visual acuity less than 6/60 but equal to or better than 3/60 in the better eye with best correction.
+Option D:
+Visual acuity less than 3/60 in the better eye, or visual field less than 10 degrees.
+Correct Answer:
+Option C
+Difficulty:
+Hard
+Explanation:
+Severe visual impairment is clinically categorized by visual acuity between 6/60 and 3/60 in the better eye with standard correction.
+Source:
+RRB Optometrist Grade II 2025
+## Q52
+Question:
+Which type of diabetes is also called childhood diabetes?
+Option A:
+Gestational diabetes
+Option B:
+Type-2
+Option C:
+Type-1
+Option D:
+Prediabetes
+Correct Answer:
+Option C
+Difficulty:
+Easy
+Explanation:
+Type-1 diabetes is traditionally known as "childhood diabetes" because it is most commonly diagnosed in children and young adults.
+Source:
+RRB Optometrist Grade II 2025
+## Q53
+Question:
+Which autacoid is involved in allergic reactions?
+Option A:
+Bradykinin
+Option B:
+Histamine
+Option C:
+Serotonin
+Option D:
+Prostaglandin
+Correct Answer:
+Option B
+Difficulty:
+Medium
+Explanation:
+Histamine is released from mast cells and basophils in response to allergens, causing the inflammatory and vascular symptoms of an allergic reaction.
+Source:
+RRB Optometrist Grade II 2025
+## Q54
+Question:
+What is the primary effect of a concave lens on light that passes through it in terms of refraction through spherical surfaces?
+Option A:
+It focuses light rays to the retina.
+Option B:
+It causes light rays to diverge away from the optical axis.
+Option C:
+It causes light rays to converge at a single point.
+Option D:
+It bends light rays parallel to the optical axis.
+Correct Answer:
+Option B
+Difficulty:
+Medium
+Explanation:
+Concave lenses have a diverging effect, meaning incident parallel light rays spread apart after passing through the lens.
+Source:
+RRB Optometrist Grade II 2025
+## Q55
+Question:
+What does a slit lamp examine?
+Option A:
+The visual field
+Option B:
+The optic nerve
+Option C:
+The anterior segment of the eye
+Option D:
+The retina
+Correct Answer:
+Option C
+Difficulty:
+Easy
+Explanation:
+A slit lamp is an essential clinical tool for high-magnification, detailed examination of the eye's anterior segment, including the cornea, anterior chamber, and lens.
+Source:
+RRB Optometrist Grade II 2025
+## Q56
+Question:
+What is the primary goal of low vision services?
+Option A:
+To maximize remaining vision
+Option B:
+To prevent eye diseases
+Option C:
+To provide surgical interventions
+Option D:
+To restore normal vision
+Correct Answer:
+Option A
+Difficulty:
+Easy
+Explanation:
+The objective of low vision services is to help patients make the best use of their remaining vision to maintain their quality of life.
+Source:
+RRB Optometrist Grade II 2025
+## Q57
+Question:
+Which of the following best explains the neural control of reflex lacrimation in response to corneal irritation?
+Option A:
+Parasympathetic fibers originating in the Edinger-Westphal nucleus directly innervate the lacrimal acini.
+Option B:
+Norepinephrine, sympathetic innervation from the superior cervical ganglion promotes lacrimal gland output.
+Option C:
+Sensory fibers from the oculomotor nerve activate the lacrimal gland through direct motor input.
+Option D:
+Parasympathetic fibers from the pterygopalatine ganglion stimulate the lacrimal gland via acetylcholine and vasoactive intestinal peptide (VIP).
+Correct Answer:
+Option D
+Difficulty:
+Hard
+Explanation:
+Reflex tearing is triggered by sensory nerves in the cornea (trigeminal nerve), which send signals to the brainstem, leading to parasympathetic activation of the lacrimal gland via the pterygopalatine ganglion.
+Source:
+RRB Optometrist Grade II 2025
+## Q58
+Question:
+What is discharge planning's primary goal?
+Option A:
+To get the hospital room ready for the next patient.
+Option B:
+To make sure the patient gets their prescription on schedule.
+Option C:
+To guarantee that the patient's treatment continues after they leave the hospital.
+Option D:
+To let guests know how the patient is doing.
+Correct Answer:
+Option C
+Difficulty:
+Medium
+Explanation:
+Discharge planning is crucial for managing the patient's transition from hospital to home, ensuring continuity of medical care and support.
+Source:
+RRB Optometrist Grade II 2025
+## Q59
+Question:
+Which of the following refractive errors is characterized by difficulty in seeing objects at a distance, and is typically corrected by a concave lens?
+Option A:
+Astigmatism
+Option B:
+Myopia
+Option C:
+Presbyopia
+Option D:
+Hyperopia
+Correct Answer:
+Option B
+Difficulty:
+Easy
+Explanation:
+Myopia (nearsightedness) is defined by blurred distance vision and is corrected using diverging concave (minus) lenses to move the image back onto the retina.
+Source:
+RRB Optometrist Grade II 2025
+## Q60
+Question:
+Which of the following statements correctly describes the clinical significance of the brachial plexus in relation to arm movement?
+Option A:
+The brachial plexus exclusively supplies the muscles of the forearm, leaving the hand unaffected in case of injury.
+Option B:
+The brachial plexus is located in the neck and does not affect the upper limb's motor or sensory functions.
+Option C:
+The brachial plexus is responsible for the movement of the muscles in the upper limb, and its injury can result in paralysis of the arm muscles.
+Option D:
+The brachial plexus only contributes to sensation in the arm and does not play a role in motor control.
+Correct Answer:
+Option C
+Difficulty:
+Medium
+Explanation:
+The brachial plexus is the complex network of nerves that provides comprehensive motor and sensory innervation to the entire upper limb.
+Source:
+RRB Optometrist Grade II 2025
+## Q61
+Question:
+Which organism causes conjunctivitis?
+Option A:
+Neisseria gonorrhoeae
+Option B:
+Staphylococcus aureus
+Option C:
+Human Papilloma Virus
+Option D:
+Mycobacterium tuberculosis
+Correct Answer:
+Option B
+Difficulty:
+Easy
+Explanation:
+Staphylococcus aureus is one of the most common bacterial pathogens associated with infectious conjunctivitis.
+Source:
+RRB Optometrist Grade II 2025
+## Q62
+Question:
+Which of the following is the most common cause of refractive error in the human eye?
+Option A:
+Glaucoma
+Option B:
+Presbyopia
+Option C:
+Cataract
+Option D:
+Myopia
+Correct Answer:
+Option D
+Difficulty:
+Easy
+Explanation:
+Myopia is the most globally prevalent refractive error found in human populations.
+Source:
+RRB Optometrist Grade II 2025
+## Q63
+Question:
+Which of the following is true about convergence insufficiency?
+Option A:
+It is unrelated to binocular vision.
+Option B:
+It is caused by excessive tear production.
+Option C:
+It is characterized by the inability of the eyes to move outward.
+Option D:
+It is characterized by the inability of the eyes to move inward to focus on near objects.
+Correct Answer:
+Option D
+Difficulty:
+Medium
+Explanation:
+Convergence insufficiency is a binocular vision disorder marked by a significant deficit in the eye's ability to converge during near-vision activities.
+Source:
+RRB Optometrist Grade II 2025
+## Q64
+Question:
+Which of the following clinical findings would most likely indicate a convergence insufficiency in a patient, as described in the literature on binocular vision and ocular motility?
+Option A:
+The patient presents with hyperopia (farsightedness) and a significantly increased near point of convergence, but there are no complaints of visual discomfort or double vision.
+Option B:
+The patient has difficulty maintaining a clear, single image while reading, especially at near distances and experiences eye strain or double vision when focusing on nearby objects for prolonged periods.
+Option C:
+The patient has strabismus with consistent alternating exotropia and experiences intermittent diplopia, which resolves when the patient covers one eye.
+Option D:
+The patient exhibits a normal near point of convergence, clear single vision at near distances, and no history of eye fatigue, but reports occasional double vision during distance tasks.
+Correct Answer:
+Option B
+Difficulty:
+Hard
+Explanation:
+Convergence insufficiency typically manifests as eye strain, fatigue, and intermittent double vision during tasks that require sustained focus on near objects.
+Source:
+RRB Optometrist Grade II 2025
+## Q65
+Question:
+Which of the following medications, commonly prescribed to elderly patients, is most likely to cause blurred vision or difficulty focusing, as a result of its anticholinergic effects, which impair accommodation in older adults?
+Option A:
+Prostaglandin analogs (e.g., Latanoprost)
+Option B:
+Angiotensin-converting enzyme inhibitors (e.g., Lisinopril)
+Option C:
+Antihistamines (e.g., Diphenhydramine)
+Option D:
+Beta-blockers (e.g., Timolol)
+Correct Answer:
+Option C
+Difficulty:
+Medium
+Explanation:
+Antihistamines with anticholinergic activity can inhibit ciliary muscle contraction, leading to accommodation impairment and blurred vision.
+Source:
+RRB Optometrist Grade II 2025
+## Q66
+Question:
+Which of the following statements best describes the mechanism of glomerular filtration in the kidneys?
+Option A:
+It occurs due to active transport of solutes across the glomerular membrane.
+Option B:
+It is a passive process driven by hydrostatic pressure in the glomerular capillaries.
+Option C:
+It primarily involves the secretion of electrolytes by the proximal tubule.
+Option D:
+It is regulated only by the autonomic nervous system without any hormonal influence.
+Correct Answer:
+Option B
+Difficulty:
+Medium
+Explanation:
+Glomerular filtration is a passive process governed by the hydrostatic pressure within the glomerular capillaries, which forces fluid into Bowman's capsule.
+Source:
+RRB Optometrist Grade II 2025
+## Q67
+Question:
+Which of the following muscles is primarily responsible for the flexion of the elbow joint?
+Option A:
+Brachialis
+Option B:
+Coracobrachialis
+Option C:
+Biceps brachii
+Option D:
+Triceps brachii
+Correct Answer:
+Option A
+Difficulty:
+Medium
+Explanation:
+The brachialis muscle is the primary, most powerful flexor of the elbow joint, working alongside the biceps brachii.
+Source:
+RRB Optometrist Grade II 2025
+## Q68
+Question:
+What is a common patient reaction to sudden vision loss?
+Option A:
+Indifference
+Option B:
+Excitement
+Option C:
+Confusion
+Option D:
+Panic
+Correct Answer:
+Option D
+Difficulty:
+Easy
+Explanation:
+Sudden vision loss is a traumatic psychological and physical experience that frequently triggers a strong panic reaction in patients.
+Source:
+RRB Optometrist Grade II 2025
+## Q69
+Question:
+Which of the following immune cells plays a key role in the pathogenesis of uveitis, an immune-mediated ocular disease?
+Option A:
+Basophils
+Option B:
+T lymphocytes
+Option C:
+Neutrophils
+Option D:
+Eosinophils
+Correct Answer:
+Option B
+Difficulty:
+Medium
+Explanation:
+T-cell-mediated immune responses are fundamental to the inflammatory process seen in many forms of uveitis.
+Source:
+RRB Optometrist Grade II 2025
+## Q70
+Question:
+What is the primary use of topical corticosteroids in ophthalmology?
+Option A:
+To treat bacterial infections
+Option B:
+To dilate the pupil
+Option C:
+To lower intraocular pressure
+Option D:
+To reduce inflammation
+Correct Answer:
+Option D
+Difficulty:
+Easy
+Explanation:
+Topical corticosteroids are essential therapeutic agents used to reduce ocular inflammation resulting from various disease processes or surgical trauma.
+Source:
+RRB Optometrist Grade II 2025
